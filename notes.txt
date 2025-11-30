@@ -1,0 +1,3 @@
+My first note:
+-Git helps save versions of files..
+
