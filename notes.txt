@@ -1,3 +1,7 @@
 My first note:
 -Git helps save versions of files..
 
+
+My second note:
+-branches lets work seperately..
+
